@@ -36,89 +36,137 @@
 🧠 Passionate about solving real-world business problems using AI-powered automation.
 
 ---
-
-# 🛠 Tech Stack
-
-## 🤖 Artificial Intelligence
-
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT--5-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-
----
-
-## ⚡ Automation
-
-![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
----
-
-## ☁ Google Workspace
-
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
-
-![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-
----
-
-## 💻 Development
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
----
-
-# 📊 GitHub Statistics
+# 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JAHANZAIB-AQEEL&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JAHANZAIB-AQEEL&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<br><br>
 
-</div>
-
----
-
-# 🔥 GitHub Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=JAHANZAIB-AQEEL&theme=tokyonight&hide_border=true"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=json" />
 
 </div>
----
 
-# 🏆 GitHub Trophies
+### AI & Automation
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JAHANZAIB-AQEEL&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
-
-</div>
----
-
+- OpenAI GPT
+- n8n Workflow Automation
+- Prompt Engineering
+- Google Sheets API
+- Gmail Automation
+- Google Drive Automation
+- Webhooks
+- REST APIs
 # 🚀 Featured Portfolio
 
-### AI Automation Portfolio
+## 🤖 AI Automation Portfolio
 
-📁 **Repository**
+> **20 Real-World Enterprise AI Automation Projects**
 
-👉 https://github.com/JAHANZAIB-AQEEL/AI-Automation-Portfolio
+### Repository
 
-### Highlights
+🔗 https://github.com/JAHANZAIB-AQEEL/AI-Automation-Portfolio
 
-- 🚀 20 Real-World AI Automation Projects
-- 🤖 OpenAI-Powered Workflows
-- ⚡ Enterprise Business Automation
-- ☁️ Google Workspace Integration
-- 📄 Professional Documentation
-- 📊 Business Intelligence Solutions
-- 👥 HR & Recruitment Automation
-- 💼 CRM & Sales Automation
-- 💰 Finance Automation
-- 🎫 Customer Support Automation
+### Built With
+
+- OpenAI
+- n8n
+- Google Workspace
+- Webhooks
+- REST APIs
+- Prompt Engineering
+
+### Includes
+
+✅ HR Automation
+
+✅ Sales Automation
+
+✅ CRM Automation
+
+✅ Finance Automation
+
+✅ Customer Support Automation
+
+✅ Document Intelligence
+
+✅ Executive Reporting
+
+✅ AI Agents
+
+✅ Meeting Automation
+
+✅ Content Automation
+# ⭐ Featured Projects
+
+### 🧠 AI Multi-Agent Business Assistant
+
+Enterprise AI system using multiple specialized AI agents.
+
+---
+
+### 📊 AI Executive Business Reporting System
+
+Automatically generates executive reports from business data.
+
+---
+
+### 📄 AI Contract & Document Analyzer
+
+Analyzes contracts and extracts critical information using OpenAI.
+
+---
+
+### 🤖 AI CRM Assistant
+
+Automates customer relationship management tasks.
+
+---
+
+### 💰 AI Invoice Generator
+
+Creates professional invoices automatically.
+
+---
+
+### 📅 AI Meeting Scheduler
+
+AI-powered meeting scheduling workflow.
+# 🎯 Core Skills
+
+- AI Workflow Automation
+- Prompt Engineering
+- Business Process Automation
+- OpenAI Integration
+- n8n Development
+- Google Workspace Automation
+- CRM Automation
+- HR Automation
+- Sales Automation
+- API Integration
+# 🌱 Currently Learning
+
+- Multi-Agent AI Systems
+- Retrieval-Augmented Generation (RAG)
+- MCP (Model Context Protocol)
+- AI Agents
+- Enterprise Automation
+# 📫 Connect
+
+GitHub
+
+https://github.com/JAHANZAIB-AQEEL
+
+Portfolio
+
+https://github.com/JAHANZAIB-AQEEL/AI-Automation-Portfolio
+---
+
+<div align="center">
+
+⭐ **Thanks for visiting!**
+
+*"Building AI-powered business solutions with OpenAI and n8n."*
+
+</div>
