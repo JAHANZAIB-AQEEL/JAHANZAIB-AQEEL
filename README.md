@@ -4,7 +4,7 @@
 
 ### 🤖 AI Automation Engineer | Workflow Automation | OpenAI | n8n
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI+Automation+Engineer;Business+Workflow+Automation;OpenAI+%7C+n8n+%7C+Google+Workspace;Building+Real-World+AI+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=1000&lines=AI+Automation+Engineer;Building+Enterprise+AI+Workflows;OpenAI+%7C+n8n+%7C+Google+Workspace;20+Real-World+AI+Automation+Projects" />
 
 <br>
 
