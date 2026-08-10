@@ -86,3 +86,34 @@
 <img src="https://streak-stats.demolab.com?user=JAHANZAIB-AQEEL&theme=tokyonight&hide_border=true"/>
 
 </div>
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JAHANZAIB-AQEEL&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
+
+</div>
+---
+
+# 🚀 Featured Portfolio
+
+### AI Automation Portfolio
+
+📁 **Repository**
+
+👉 https://github.com/JAHANZAIB-AQEEL/AI-Automation-Portfolio
+
+### Highlights
+
+- 🚀 20 Real-World AI Automation Projects
+- 🤖 OpenAI-Powered Workflows
+- ⚡ Enterprise Business Automation
+- ☁️ Google Workspace Integration
+- 📄 Professional Documentation
+- 📊 Business Intelligence Solutions
+- 👥 HR & Recruitment Automation
+- 💼 CRM & Sales Automation
+- 💰 Finance Automation
+- 🎫 Customer Support Automation
