@@ -8,6 +8,10 @@
 
 ### 🤖 AI Automation Engineer | Workflow Automation | OpenAI | n8n
 
+<p align="center">
+  <img src="./jahanzaib_typing.gif" width="700">
+</p>
+
 I build AI-powered automation systems that help businesses reduce manual work,
 streamline workflows, and improve operational efficiency.
 
