@@ -4,69 +4,93 @@
 
 <br>
 
-
 # 👋 Hi, I'm Jahanzaib Aqeel
 
 ### 🤖 AI Automation Engineer | Workflow Automation | OpenAI | n8n
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=1000&lines=AI+Automation+Engineer;Building+Enterprise+AI+Workflows;OpenAI+%7C+n8n+%7C+Google+Workspace;20+Real-World+AI+Automation+Projects" />
+I build AI-powered automation systems that help businesses reduce manual work,
+streamline workflows, and improve operational efficiency.
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=JAHANZAIB-AQEEL&style=for-the-badge&color=0e75b6)
-
-![GitHub followers](https://img.shields.io/github/followers/JAHANZAIB-AQEEL?style=for-the-badge)
-
-![GitHub Stars](https://img.shields.io/github/stars/JAHANZAIB-AQEEL?style=for-the-badge)
-
-</div>
+I specialize in **OpenAI, n8n, APIs, and Google Workspace automation**, with a
+focus on practical business solutions across CRM, HR, finance, customer
+support, reporting, and business operations.
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 BS Cyber Security Student
+🎓 **BS Cyber Security Student**
 
-🤖 AI Automation Enthusiast
+🤖 **AI Automation Enthusiast**
 
-⚡ Workflow Automation Engineer
+⚡ **Workflow Automation Engineer**
 
-💼 Business Process Automation
+💼 **Business Process Automation**
 
-🧠 Passionate about solving real-world business problems using AI-powered automation.
+🧠 Interested in building practical AI systems that solve real business problems.
+
+I focus on turning repetitive business processes into reliable,
+AI-powered workflows.
 
 ---
-# 💻 Tech Stack
 
-<div align="center">
+## 🧩 What I Build
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+- 🤖 AI-powered business assistants
+- 🔄 Workflow automation systems
+- 📊 Automated business reporting
+- 👥 CRM automation
+- 🧑‍💼 HR automation
+- 💰 Finance and invoice automation
+- 📄 Document and contract analysis
+- 📧 Gmail automation
+- 📁 Google Drive automation
+- 📅 Meeting and scheduling automation
+- 🔌 API and webhook integrations
+- 🧠 AI agent workflows
 
-<br><br>
+---
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=json" />
+## 🛠️ Tech Stack
 
-</div>
+### 🤖 AI & Automation
 
-### AI & Automation
-
-- OpenAI GPT
-- n8n Workflow Automation
+- OpenAI / GPT
+- n8n
 - Prompt Engineering
+- AI Agents
+- Workflow Automation
+- Webhooks
+- REST APIs
+
+### ☁️ Google Workspace
+
 - Google Sheets API
 - Gmail Automation
 - Google Drive Automation
-- Webhooks
-- REST APIs
-# 🚀 Featured Portfolio
+- Google Workspace Integrations
 
-## 🤖 AI Automation Portfolio
+### 💻 Development & Tools
 
-> **20 Real-World Enterprise AI Automation Projects**
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- VS Code
 
-### Repository
+---
 
-🔗 https://github.com/JAHANZAIB-AQEEL/AI-Automation-Portfolio
+## 🚀 Featured Portfolio
+
+### 🤖 AI Automation Portfolio
+
+A collection of **20 AI automation projects** covering different business
+operations and workflow use cases.
+
+**Repository:**
+
+https://github.com/JAHANZAIB-AQEEL/AI-Automation-Portfolio
 
 ### Built With
 
@@ -77,63 +101,49 @@
 - REST APIs
 - Prompt Engineering
 
-### Includes
+### Areas Covered
 
-✅ HR Automation
+- ✅ HR Automation
+- ✅ Sales Automation
+- ✅ CRM Automation
+- ✅ Finance Automation
+- ✅ Customer Support Automation
+- ✅ Document Intelligence
+- ✅ Executive Reporting
+- ✅ AI Agents
 
-✅ Sales Automation
+---
 
-✅ CRM Automation
-
-✅ Finance Automation
-
-✅ Customer Support Automation
-
-✅ Document Intelligence
-
-✅ Executive Reporting
-
-✅ AI Agents
-
-✅ Meeting Automation
-
-✅ Content Automation
-# ⭐ Featured Projects
+## ⭐ Featured Projects
 
 ### 🧠 AI Multi-Agent Business Assistant
 
-Enterprise AI system using multiple specialized AI agents.
-
----
+Enterprise-style AI workflow concept using multiple specialized AI agents
+to support different business operations.
 
 ### 📊 AI Executive Business Reporting System
 
-Automatically generates executive reports from business data.
-
----
+Automates the generation of business reports from structured business data.
 
 ### 📄 AI Contract & Document Analyzer
 
-Analyzes contracts and extracts critical information using OpenAI.
-
----
+Analyzes documents and extracts important information using AI.
 
 ### 🤖 AI CRM Assistant
 
-Automates customer relationship management tasks.
-
----
+Automates repetitive customer relationship management tasks.
 
 ### 💰 AI Invoice Generator
 
-Creates professional invoices automatically.
-
----
+Creates professional invoices through an automated workflow.
 
 ### 📅 AI Meeting Scheduler
 
-AI-powered meeting scheduling workflow.
-# 🎯 Core Skills
+Automates scheduling-related tasks and workflow coordination.
+
+---
+
+## 🎯 Core Skills
 
 - AI Workflow Automation
 - Prompt Engineering
@@ -145,28 +155,45 @@ AI-powered meeting scheduling workflow.
 - HR Automation
 - Sales Automation
 - API Integration
-# 🌱 Currently Learning
+- Webhook Automation
+- AI Agent Workflows
+
+---
+
+## 🌱 Currently Learning
 
 - Multi-Agent AI Systems
 - Retrieval-Augmented Generation (RAG)
-- MCP (Model Context Protocol)
+- Model Context Protocol (MCP)
 - AI Agents
-- Enterprise Automation
-# 📫 Connect
+- Advanced n8n Automation
+- Enterprise Workflow Architecture
 
-GitHub
+---
+
+## 📬 Let's Connect
+
+### 💼 Portfolio
+
+https://jahanzaib-aqeel.github.io/
+
+### 🐙 GitHub
 
 https://github.com/JAHANZAIB-AQEEL
 
-Portfolio
+### 📧 Email
 
-https://github.com/JAHANZAIB-AQEEL/AI-Automation-Portfolio
+jahanzaibaqeel6@gmail.com
+
+### 💬 WhatsApp
+
+https://wa.me/923247421210
+
 ---
 
-<div align="center">
+## ⭐ Thanks for Visiting!
 
-⭐ **Thanks for visiting!**
+I'm interested in building practical AI automation solutions that solve
+real business problems.
 
-*"Building AI-powered business solutions with OpenAI and n8n."*
-
-</div>
+> "Building AI-powered business solutions with OpenAI and n8n."
